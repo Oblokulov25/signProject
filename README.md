@@ -14,13 +14,13 @@ Ushbu loyiha zamonaviy va xavfsiz autentifikatsiya tizimini o'z ichiga oladi. Lo
 Loyihaning ko'rinishi quyidagicha:
 
 ### 1. Kirish oynasi (Sign In)
-![Sign In](./images/1.png)
+![Sign In](images/1.png)
 
 ### 2. Ro'yxatdan o'tish (Sign Up)
-![Sign Up](./images/2.png)
+![Sign Up](images/2.png)
 
 ### 3. Parolni tiklash (Forgot Password)
-![Forgot Password](./images/3.png)
+![Forgot Password](images/3.png)
 
 ## 🚀 Texnologiyalar
 - **Frontend:** React.js
